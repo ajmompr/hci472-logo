@@ -1,0 +1,65 @@
+body {
+  background-color: #FAFAFA;
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: center; /* Align items vertically */
+}
+
+.navtitle {
+  margin-left: 10px; /* Add some space between the image and text */
+}
+
+/* Optional: Adjust logo size */
+.logonav {
+  width: 50px; /* Adjust width as needed */
+  height: auto; /* Maintain aspect ratio */
+}
+
+nav {
+  border-bottom: 5px solid #F77763;
+  background-color: white;
+}
+
+.navtitle {
+  font-family: "Righteous", sans-serif;
+  font-style: normal;
+  color: #4D2BFF;
+}
+
+.title {
+  font-family: "Righteous", sans-serif;
+  font-style: normal;
+  color: #4D2BFF;
+  font-size: 2.986rem;
+}
+
+.fav-title {
+  font-family: "Lato", sans-serif;
+  font-size: 1.75rem;
+}
+
+p {
+  font-family: "Lato", sans-serif;
+  font-size: 1rem;
+}
+
+.card-title {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-size: 1.25rem;
+}
+
+.card {
+  max-width: 400px;
+}
+
+.card-img-top {
+  max-height: auto;
+  width: auto;
+}
+.card-body {
+  text-align: center;
+}
+
